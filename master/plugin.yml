@@ -1,0 +1,11 @@
+name: fatigue
+main: ppodds.rpg.fatigue.fatigue
+version: 1.0.0
+commands:
+  fg:
+    description: 總指令
+permissions:
+  fatigue.use.fg:
+    default:
+  fatigue.use.give:
+    default: op

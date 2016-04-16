@@ -1,0 +1,15 @@
+#fatigue的config
+#以下的值設定便是疲勞值的消耗，1就是0.01%，請不要設超過10000，以下是次序。
+#石頭,鵝卵石,煤礦
+#鐵礦,金礦,紅石礦
+#青金石礦,綠寶石礦,鑽石礦
+Item:
+    STONE: 100
+    COBBLESTONE: 200
+    COAL_ORE: 300
+    IRON_ORE: 400
+    GOLD_ORE: 500
+    REDSTONE_ORE: 600
+    LAPIS_ORE: 700
+    EMERALD_ORE: 800
+    DIAMOND_ORE: 900
